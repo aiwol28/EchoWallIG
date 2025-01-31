@@ -1,6 +1,6 @@
 <template>
   <main class="bg-gray-800 min-h-[100vh] flex flex-col justify-between">
-    <div class="mx-auto sm:px-32 px-4 py-4 w-fit z-20">
+    <div class="mx-auto sm:px-28 px-4 py-4 w-fit z-20">
       <Brand />
       <UploadZip />
       <TabsNavigation />
