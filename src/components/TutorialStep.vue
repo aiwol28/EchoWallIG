@@ -2,7 +2,7 @@
   <div>
     <p class="sm:text-xl text-base text-white mb-4">{{ title }}</p>
     <div class="flex justify-center">
-      <img :src="image" alt="..." class="sm:w-[60%] w-[70%]" />
+      <img :src="image" alt="..." class="sm:w-[60%] w-[70%] rounded-xl" />
     </div>
   </div>
 </template>
